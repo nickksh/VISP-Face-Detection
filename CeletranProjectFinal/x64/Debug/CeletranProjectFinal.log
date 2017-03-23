@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\admin\documents\telescope\celetranprojectfinal\celetranprojectfinal\main.cpp(57): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\admin\documents\telescope\celetranprojectfinal\celetranprojectfinal\main.cpp(60): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  CeletranProjectFinal.vcxproj -> C:\Users\Admin\Documents\telescope\CeletranProjectFinal\x64\Debug\CeletranProjectFinal.exe
+  CeletranProjectFinal.vcxproj -> C:\Users\Admin\Documents\telescope\CeletranProjectFinal\x64\Debug\CeletranProjectFinal.pdb (Partial PDB)
